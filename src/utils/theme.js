@@ -1,7 +1,7 @@
 export const theme = {
   colors: {
     heading: 'rgb(75, 75, 146)',
-    text: 'rgb(76, 75, 75)',
+    text: 'rgb(0, 128, 0)',
     border: 'rgb(129, 124, 124)',
     button: 'rgb(134, 203, 200)',
     buttonHover: 'rgb(157, 222, 219)',
